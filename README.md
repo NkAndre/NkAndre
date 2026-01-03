@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">quem sou eu?/h2>
+<h2 align="left">quem sou eu?</h2>
 
 ###
 
