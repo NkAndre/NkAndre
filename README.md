@@ -1,4 +1,4 @@
-<h1 align="left">sysout ("Hello André !")</h1>
+<h1 align="left">prazer rapazeada, eu me chamo André !!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre eu</h2>
+<h2 align="left">quem sou eu?/h2>
 
 ###
 
