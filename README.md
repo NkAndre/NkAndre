@@ -54,7 +54,7 @@
 ###
 
 <h2 align="left">🛠️ Tech Stack</h2>
-###
+
 
 
 <div align="left">
