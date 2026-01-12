@@ -56,7 +56,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 ###
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
