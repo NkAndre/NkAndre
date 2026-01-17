@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas (3º módulo)  <br>🎓 Concluindo curso de inglês (nível avançado) | Certificado Wizard  <br>🏅 Reconhecido como melhor aluno do bimestre  <br>💻 Experiência com Java (back-end), HTML/CSS (web) e React Native (mobile)  <br>📱 Projeto: aplicativo do Zoológico de São Paulo - Em destaque <br>🎯 Objetivo: evoluir como desenvolvedor Full Stack e atuar em projetos reais  <br>🎲 Fun fact: apaixonado por games 🎮 e leitura 📚</p>
+<p align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas (3º módulo)  <br>🎓 Concluindo curso de inglês (nível avançado) | Certificado Wizard  <br>🏅 
+💻 Experiência com Java (back-end), HTML/CSS (web) e React Native (mobile)  <br>📱 Projeto: Sistema web, desenhe aqui - Em destaque <br>🎯 Objetivo: evoluir como desenvolvedor Full Stack e atuar em projetos reais  <br>🎲 Fun fact: apaixonado por games 🎮 e leitura 📚</p>
 
 ###
 
