@@ -1,17 +1,12 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
 
 ###
-
-<p align="left">Desenvolvedor Full Stack em formação, focado em transformar ideias em soluções por meio do código.<br>Tenho focado em Java no back-end e em React Native no front-end mobile, aplicando os conhecimentos em projetos práticos e buscando evolução constante.</p>
-
-###
-
 <h2 align="left">Sobre mim</h2>
 
+<p align="left">Desenvolvedor Fullstack em formação, com foco em Java e arquitetura dde sistemas. <br> Experiência prática com projetos fullstck, aplicando boas práticas, regras de negócios eintegração entre camadas. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
+
 ###
 
-<p align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas (3º módulo)  <br>🎓 Concluindo curso de inglês (nível avançado) | Certificado Wizard  <br>🏅 
-💻 Experiência com Java (back-end), HTML/CSS (web) e React Native (mobile)  <br>📱 Projeto: Sistema web, desenhe aqui - Em destaque <br>🎯 Objetivo: evoluir como desenvolvedor Full Stack e atuar em projetos reais  <br>🎲 Fun fact: apaixonado por games 🎮 e leitura 📚</p>
 
 ###
 
