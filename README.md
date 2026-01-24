@@ -3,7 +3,7 @@
 ###
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Experiência prática com projetos fullstck, aplicando boas práticas, regras de negócios, arquitetura em camadas e integração entre sistemas. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
+<p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
 ###
 
