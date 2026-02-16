@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=dracula&show_icons=true" />
-</p>
+</p
 
 
 
