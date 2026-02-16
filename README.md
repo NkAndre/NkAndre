@@ -30,8 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&theme=dracula&show_icons=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=dracula&show_icons=true" />
+</p>
 
 
 
