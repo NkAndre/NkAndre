@@ -6,11 +6,6 @@
 <p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
