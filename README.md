@@ -6,6 +6,9 @@
 
 <p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
+> ✨ **Porque para Deus nada será impossível.**  
+> *Lucas 1:37*
+
 ###
 
 
