@@ -8,9 +8,17 @@
 
 ###
 
+
+
 ## 📊 GitHub Stats
 
-![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<div align="left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+
+</div>
 
 
 
