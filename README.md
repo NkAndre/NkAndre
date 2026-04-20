@@ -23,6 +23,14 @@
 
 </div>
 
+## 🚀 Soft Skills
+
+✨ Liderança  
+🗣️ Comunicação  
+📚 Autodidata  
+🧩 Resolução de Problemas  
+⚡ Proatividade  
+
 
 
 ###
