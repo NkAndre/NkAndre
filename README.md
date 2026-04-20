@@ -1,14 +1,16 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
 
-<p align="left">
-  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/mario.gif" height="120" alt="Mario gif" />
-</p>
+
 ###
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
 ###
+
+## 📊 GitHub Stats
+
+![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-santosdev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 
 
