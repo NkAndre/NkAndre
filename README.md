@@ -1,9 +1,9 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end" />
 </p>
 
-###
+---
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
@@ -36,9 +36,9 @@
 
 
 
+---
 
 
-###
 
 <h2 align="left">🛠️ Linguagens</h2>
 
@@ -81,8 +81,7 @@
   
 
 </div>
-
-###
+---
 
 
 ###
@@ -100,8 +99,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+---
 
-###
+
 
 ### 🌍 Onde me Encontrar?
 
