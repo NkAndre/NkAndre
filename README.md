@@ -1,5 +1,9 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
 
+<p align="left">
+  <img src="https://media.giphy.com/media/ytBoIyQJcB2xi/giphy.gif" height="120" />
+</p>
+
 ###
 <h2 align="left">Sobre mim</h2>
 
