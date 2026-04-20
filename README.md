@@ -11,7 +11,6 @@
 > ✨ **Porque para Deus nada será impossível.**  
 > *Lucas 1:37*
 
----
  ## 🚀 Soft Skills
 
 ✨ Liderança  
@@ -20,7 +19,6 @@
 🧩 Resolução de Problemas  
 ⚡ Proatividade  
 
-###
 
 ---
 
