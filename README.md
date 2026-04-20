@@ -1,5 +1,7 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end" />
+</p>
 
 ###
 <h2 align="left">Sobre mim</h2>
@@ -8,6 +10,14 @@
 
 > ✨ **Porque para Deus nada será impossível.**  
 > *Lucas 1:37*
+>
+ ## 🚀 Soft Skills
+
+✨ Liderança  
+🗣️ Comunicação  
+📚 Autodidata  
+🧩 Resolução de Problemas  
+⚡ Proatividade  
 
 ###
 
@@ -23,13 +33,7 @@
 
 </div>
 
-## 🚀 Soft Skills
 
-✨ Liderança  
-🗣️ Comunicação  
-📚 Autodidata  
-🧩 Resolução de Problemas  
-⚡ Proatividade  
 
 
 
