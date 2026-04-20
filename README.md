@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-santosdev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![André GitHub Stats](https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 
 
