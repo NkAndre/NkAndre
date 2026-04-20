@@ -1,4 +1,4 @@
-<h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
+<h1 align="center">👦🏾 💻 Olá, eu sou o André!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end" />
 </p>
@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 
