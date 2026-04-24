@@ -111,6 +111,3 @@
 </div>
 
 
-
- pq nao ta atualizando  o meu stats?
-
