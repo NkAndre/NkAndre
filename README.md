@@ -13,7 +13,7 @@
   Busco estágio para evoluir em ambiente real de desenvolvimento.
 </p>
 
-> ✨ **Porque para Deus nada será impossível.** > *Lucas 1:37*
+> ✨ **Porque para Deus nada será impossível.**  *Lucas 1:37*
 
 ## 🚀 Soft Skills
 
