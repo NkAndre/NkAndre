@@ -36,6 +36,12 @@
 
 <h2 align="left">🛠️ Linguagens e Frameworks</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind,python" />
+  </a>
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="10" />
