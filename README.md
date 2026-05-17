@@ -42,7 +42,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind&theme=light)](https://skillicons.dev)
+
 
 
 
@@ -51,8 +51,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,intellij,vscode,postman" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,intellij,vscode,postman" />  </a>
 </div>
 
 ---
