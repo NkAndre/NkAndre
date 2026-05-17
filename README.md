@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações robustas, escaláveis e eficientes utilizando o ecossistema **Java e Spring Boot**. 
 
@@ -13,7 +13,7 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 * 📱 **No Mobile:** Criação de aplicativos focados em usabilidade e performance.
 * 🎯 **Objetivo:** Conectar-me com equipes de engenharia de software para contribuir em projetos reais e solucionar desafios de alto impacto.
 
-> ✨ *Porque para Deus nada será impossível.* — **Lucas 1:37**
+>  *Porque para Deus nada será impossível.* — **Lucas 1:37**
 
 ---
 
@@ -27,22 +27,9 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 ---
 
-## 📊 Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800" />
-</div>
 
 ---
 
-### 🌍 Conecte-se Comigo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andre-santosdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/andree.xnj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+
