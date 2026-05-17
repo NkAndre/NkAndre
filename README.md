@@ -29,10 +29,9 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 ## Estatitiscas
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NkAndre&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NkAndre&theme=radical" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=NkAndre&show_icons=true&theme=radical&hide_border=true&locale=pt-br&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=radical&hide_border=true&locale=pt-br&size_weight=0.5&count_weight=0.5" />
 </div>
-
 
 
 
