@@ -33,6 +33,7 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=radical&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800" />
 </div>
 
+![As mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ---
 
