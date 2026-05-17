@@ -34,35 +34,16 @@
 
 ---
 
-<h2 align="left">🛠️ Linguagens e Frameworks</h2>
+<h2 align="left">🛠️ tech Stack</h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind,python" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind,python, mysql,mongodb" />
   </a>
 </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
-  <img width="10" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
+
+
 
 <h2 align="left">🛠️ Ferramentas</h2>
 
