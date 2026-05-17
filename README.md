@@ -42,6 +42,8 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind&theme=light)](https://skillicons.dev)
+
 
 
 
