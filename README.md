@@ -21,7 +21,7 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind,python,mysql,mongodb,git,vscode,intellij,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,tailwind,python,mysql,mongodb,git,vscode,postman" />
   </a>
 </p>
 
@@ -30,12 +30,12 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NkAndre&show_icons=true&theme=radical&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=radical&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=radical&hide_border=true&locale=pt-br&count_private=true&cache_seconds=1800&size_weight=0.5&count_weight=0.5" />
 </div>
 
-![As mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&size_weight=0.5&count_weight=0.5&theme=radical)
 
----
+
+
 
 
 
