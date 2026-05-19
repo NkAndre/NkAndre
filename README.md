@@ -1,6 +1,8 @@
 <h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Java+%7C+Spring+Boot;Mobile+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Java+%7C+Spring+Boot;Mobile+Developer
+    
+    📱" />
 </p>
 
 ---
@@ -21,17 +23,17 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,python"/>
       
   </a>
 </p>
 
 ---
-   ## 🛠️ Front-end
+   ## </> Front-end
 <p align="left">
     <a href="https://skillicons.dev">
  
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
       
   </a>
 </p>
