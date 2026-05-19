@@ -22,8 +22,32 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,react,tailwind,python,mysql,mongodb,git,vscode,postman" />
+    ## 🛠️ Back-end
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs/>
+      
   </a>
 </p>
+
+---
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs,react,tailwind,python,mysql,mongodb,git,vscode,postman" />
+    ## 🛠️ Front-end
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind/>
+      
+  </a>
+</p>
+---
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,postman" />
+    ## 🛠️ Banco de dados & Ferraments
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind/>
+      
+  </a>
+</p>
+
+
 
 ---
 
