@@ -11,7 +11,6 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 * 🛠️ **No Back-end:** Desenvolvimento de APIs RESTful, implementação de regras de negócio complexas, segurança e integração com bancos de dados relacionais (MySQL) e não-relacionais (MongoDB).
 * 📱 **No Mobile:** Criação de aplicativos focados em usabilidade e performance utilizando React Native.
-* 🎯 **Objetivo:** Conectar-me com equipes de engenharia de software para contribuir em projetos reais e solucionar desafios de alto impacto.
 
 > *Porque para Deus nada será impossível.* — **Lucas 1:37**
 
