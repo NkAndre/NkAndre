@@ -1,6 +1,6 @@
-<h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
+<h1>👦🏾 💻 Olá, eu sou o André!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Java+%7C;Mobile+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=T%C3%A9cnico+em+Dev.+de+Sistemas;Desenvolvedor+Back-end;Mobile+Developer" />
 </p>
 
 ---
