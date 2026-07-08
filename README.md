@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações robustas, escaláveis e eficientes utilizando o ecossistema **Java e Spring Boot**. 
+Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações robustas, escaláveis e eficientes utilizando o ecossistema **Java**. 
 
 * 🛠️ **No Back-end:** Desenvolvimento de APIs RESTful, implementação de regras de negócio complexas, segurança e integração com bancos de dados relacionais (MySQL) e não-relacionais (MongoDB).
 * 📱 **No Mobile:** Criação de aplicativos focados em usabilidade e performance utilizando React Native.
