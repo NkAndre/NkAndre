@@ -45,6 +45,12 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 </p>
 
 
+---
+
+### 📊 Principais Linguagens
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+
 
 
 
