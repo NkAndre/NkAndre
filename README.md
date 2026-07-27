@@ -40,7 +40,7 @@ Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,eclipse,vscode,pycharm,postman,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,pycharm,postman,git" />
   </a>
 </p>
 
