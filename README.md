@@ -8,6 +8,7 @@
 ## 🧑‍💻 Sobre mim
 Tenho interesse em desenvolvimento Back-end, mas também gosto de criar aplicações Mobile, participando desde a implementação das funcionalidades até a integração com bancos de dados e APIs.
 * 📱 **No Mobile:** Criação de aplicativos focados em usabilidade e performance utilizando React Native.
+* 🌐 **No Desenvolvimento Web:** Desenvolvimento de sistemas web completos, conectando front-end, APIs e bancos de dados para entregar aplicações funcionais e escaláveis.
  
 * Estou sempre desenvolvendo projetos para aprimorar minhas habilidades e me preparar para atuar profissionalmente como desenvolvedor.
 
@@ -15,7 +16,7 @@ Tenho interesse em desenvolvimento Back-end, mas também gosto de criar aplicaç
 
 ---
 
-## 🛠️ Backend
+## 🛠️ Back-end
 
 <p align="left">
   <a href="https://skillicons.dev">
