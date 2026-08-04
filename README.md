@@ -6,11 +6,10 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-
-Sou **Desenvolvedor Back-end e Mobile**, focado na construção de aplicações robustas, escaláveis e eficientes utilizando o ecossistema **Java**. 
-
-* 🛠️ **No Back-end:** Desenvolvimento de APIs RESTful, implementação de regras de negócio complexas, segurança e integração com bancos de dados relacionais (MySQL) e não-relacionais (MongoDB).
+Tenho interesse em desenvolvimento Back-end, mas também gosto de criar aplicações Mobile, participando desde a implementação das funcionalidades até a integração com bancos de dados e APIs.
 * 📱 **No Mobile:** Criação de aplicativos focados em usabilidade e performance utilizando React Native.
+ 
+* Estou sempre desenvolvendo projetos para aprimorar minhas habilidades e me preparar para atuar profissionalmente como desenvolvedor.
 
 > *Porque para Deus nada será impossível.* — **Lucas 1:37**
 
