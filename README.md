@@ -6,11 +6,12 @@
 ---
 
 ##  Sobre mim
-Desenvolvedor Back-end com experiência em Java, Spring Boot, Laravel, Node.js e bancos de dados relacionais. Também desenvolvo aplicações Mobile com React Native, criando soluções completas desde a API até a interface.
- 
-* Estou sempre desenvolvendo projetos para aprimorar minhas habilidades e me preparar para atuar profissionalmente como desenvolvedor.
+
+Desenvolvedor Back-end especializado no ecossistema Java, com conhecimento em Spring Boot, Laravel, Node.js e bancos de dados relacionais. Também desenvolvo aplicações Mobile com React Native, criando soluções completas desde a API até a interface.
+Estou constantemente desenvolvendo projetos para aprimorar minhas habilidades e evoluir como desenvolvedor.
 
 > *Porque para Deus nada será impossível.* — **Lucas 1:37**
+ 
 
 ---
 
