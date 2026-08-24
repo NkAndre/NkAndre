@@ -44,7 +44,7 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NkAndre&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NkAndre&theme=radical)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NkAndre&theme=radical)
 
