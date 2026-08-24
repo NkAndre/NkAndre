@@ -45,6 +45,5 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NkAndre&theme=dark&show_icons=true)](https://github.com/NkAndre)
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NkAndre&theme=radical)
 
 
