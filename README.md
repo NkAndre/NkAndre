@@ -37,7 +37,7 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,pycharm,postman,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgree,mongodb,vscode,pycharm,postman,git" />
   </a>
 </p>
 
