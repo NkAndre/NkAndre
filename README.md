@@ -44,6 +44,24 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 ---
 
+
+## Contatos
+
+<p align="left">
+  <a href="https://instagram.com/andree.xnj">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/andre-santosdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:andre270708@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+---
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NkAndre&theme=dark&show_icons=true)](https://github.com/NkAndre)
 
 
