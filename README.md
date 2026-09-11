@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/andre-santosdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="mailto:andre270708@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 </p>
