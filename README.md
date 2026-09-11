@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end" />
 
   <p align="left">
-  <a href="https://instagram.com/andree.xnj">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+
 
   <a href="https://www.linkedin.com/in/andre-santosdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -19,8 +17,6 @@
 </p>
 
 ---
-
-##  Sobre mim
 
 Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Laravel, Node.js e bancos de dados relacionais. Também desenvolvo aplicações Mobile com React Native, criando soluções completas desde a API até a interface. Estou constantemente desenvolvendo projetos para evoluir como desenvolvedor Back-End.
 > *Porque para Deus nada será impossível.* — **Lucas 1:37**
@@ -60,23 +56,6 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 ---
 
 
-## Contatos
 
-<p align="left">
-  <a href="https://instagram.com/andree.xnj">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/andre-santosdev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:andre270708@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
----
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NkAndre&theme=dark&show_icons=true)](https://github.com/NkAndre)
 
 
