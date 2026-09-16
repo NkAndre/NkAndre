@@ -20,7 +20,6 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 ---
 
-## 🛠️ Back-end 
 
 
 ## 🛠️ Back-end Languages & Frameworks
@@ -32,6 +31,7 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
     <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ Front-end languages and frameworks
@@ -46,7 +46,7 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 ---
 
-## 🛠️ Banco de Dados
+## 🛠️ DataBase
 
 <p align="left">
   <a href="https://skillicons.dev">
