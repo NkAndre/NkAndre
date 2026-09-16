@@ -38,7 +38,7 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" />
   </a>
 </p>
 
