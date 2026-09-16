@@ -20,15 +20,16 @@ Desenvolvedor Back-end com foco no ecossistema Java, utilizando Spring Boot, Lar
 
 ---
 
-## 🛠️ Back-end languages and frameworks
+## 🛠️ Back-end 
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,python" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" />
-  </a>
-</p>
+
+Languages
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,php,python" /> </p>
+
+Frameworks & Runtime
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" /> </p>
 
 ---
 
