@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/andre-santosdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;
 
   <a href="https://www.instagram.com/andree.xnj/">
     <img src="https://skillicons.dev/icons?i=instagram" />
